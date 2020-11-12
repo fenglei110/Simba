@@ -5,8 +5,11 @@
 ## 技术栈
 
 常用三大件： `spark`, `kafka`, `hive`
+
 OLAP： `kudu`, `presto`, `clickhouse`
+
 python计算库：`pandas`, `numpy`
+
 有过深入研究：`kafka`, `spark`, `redis`
 
 ## 经验
