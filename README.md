@@ -4,13 +4,10 @@
 
 ## 技术栈
 
-常用三大件： `spark`, `kafka`, `hive`
-
-OLAP： `kudu`, `presto`, `clickhouse`
-
-python计算库：`pandas`, `numpy`
-
-有过深入研究：`kafka`, `spark`, `redis`
+1. 常用三大件： `spark`, `kafka`, `hive`
+2. OLAP： `kudu`, `presto`, `clickhouse`
+3. python计算库：`pandas`, `numpy`
+4. 有过深入研究：`kafka`, `spark`, `redis`
 
 ## 经验
 1. 从零到1的数仓搭建
