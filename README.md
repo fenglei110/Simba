@@ -7,8 +7,9 @@
 ## 语言
 1. Python
 2. Java
-3. SQL
-4. Shell
+3. Scala
+4. SQL
+5. Shell
 
 ## 技术栈
 1. 日常三大件： `spark`, `kafka`, `hive`
