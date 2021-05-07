@@ -8,14 +8,16 @@
 1. Python
 2. Java
 3. Scala
-5. Shell
 
 ## 技术栈
 1. 日常三大件： `Spark`, `Kafka`, `Hive`
 2. OLAP组件： `Kudu`, `Presto`, `Clickhouse`
-3. python计算库：`pandas`, `numpy`
-4. 有过底层学习：`Kafka`, `Spark`, `Redis`, `MySQL`
+3. 计算库：`pandas`, `numpy`
+4. 有过源码学习：`Kafka`, `Spark`
 
 ## 主要经验
 1. 从零到1的离线及实时数仓建设
 2. 从零到1的用户画像开发
+
+## 兴趣
+1. 分布式的研究与实践
