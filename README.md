@@ -1,23 +1,20 @@
-# 个人职业介绍
 
-专注于数仓建设和用户画像开发
+## Hello, everyone! 👋👋👋
 
-有相同工作经验的朋友加VX(aacc6688521)，一起讨论。
+我是一个数据开发工程师，专注于构建数据仓库和用户画像，喜欢研究分布式设计
 
-## 语言
-1. Python
-2. Java
-3. Scala
+- 🔭 language: 
+            ![Java](https://img.shields.io/badge/-Java-red?style=plastic&logo=Java)
+            ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
+            ![Scala](https://img.shields.io/badge/-Scala-green?style=plastic&logo=scala)
+- 🌱 learning:
+            ![Docker](https://img.shields.io/badge/-Docker-9cf?style=plastic&logo=Docker)
+            ![kubernetes](https://img.shields.io/badge/-kubernetes-green?style=plastic&logo=kubernetes)
+- 📫 CSDN blog: 
+            ![CSDN](https://blog.csdn.net/fenglei0415)
+- 👯 good at: 
+            ![Spark](https://img.shields.io/badge/-Spark-orange?style=plastic&logo=Spark)
+            ![Kafka](https://img.shields.io/badge/-Kafka-orange?style=plastic&logo=Kafka)
+- 😄 call me: 
+            **aacc6688521**
 
-## 技术栈
-1. 日常三大件： `Spark`, `Kafka`, `Hive`
-2. OLAP组件： `Kudu`, `Presto`, `Clickhouse`
-3. 计算库：`pandas`, `numpy`
-4. 有过源码学习：`Kafka`, `Spark`
-
-## 主要经验
-1. 从零到1的离线及实时数仓建设
-2. 从零到1的用户画像开发
-
-## 兴趣
-1. 分布式存储与计算
