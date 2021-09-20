@@ -18,5 +18,5 @@
             ![Redis](https://img.shields.io/badge/-Redis-orange?style=plastic&logo=Redis)
             
 - 📫 [CSDN](https://blog.csdn.net/fenglei0415)
-- 😄 call me: **aacc6688521**
+- 😄 call me VX: **aacc6688521**
 
