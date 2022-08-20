@@ -5,7 +5,7 @@
 
 
 - 🔭 language: 
-            ![Java](https://img.shields.io/badge/-Java-red?style=plastic&logo=Java)
+            ![Java](https://img.shields.io/badge/-Java-8fcfd1?style=plastic&logo=Java)
             ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
             ![Scala](https://img.shields.io/badge/-Scala-green?style=plastic&logo=scala)
             ![c](https://img.shields.io/badge/-C++-green?style=plastic&logo=c++)
