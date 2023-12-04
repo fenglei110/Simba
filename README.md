@@ -11,11 +11,6 @@
 - 🌱 learning:
             ![Docker](https://img.shields.io/badge/-Docker-9cf?style=plastic&logo=Docker)
             ![kubernetes](https://img.shields.io/badge/-kubernetes-green?style=plastic&logo=kubernetes)
-- 👯 good at: 
-            ![JVM](https://img.shields.io/badge/-JVM-red?style=plastic&logo=jvm)
-            ![Spark](https://img.shields.io/badge/-Spark-red?style=plastic)
-            ![Kafka](https://img.shields.io/badge/-Kafka-red?style=plastic)
-            ![Redis](https://img.shields.io/badge/-Redis-red?style=plastic)
             
 - 📫 [CSDN](https://blog.csdn.net/fenglei0415)
 - 😄 call me VX: **aacc6688521**
